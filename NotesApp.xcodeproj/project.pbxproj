@@ -19,6 +19,7 @@
 		704957F723CFBBE200373F77 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704957F623CFBBE200373F77 /* Note.swift */; };
 		704957FB23CFC3D500373F77 /* NotesCellTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704957FA23CFC3D500373F77 /* NotesCellTableViewCell.swift */; };
 		704957FD23D2408300373F77 /* ViewNotesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 704957FC23D2408300373F77 /* ViewNotesViewController.swift */; };
+		7049580123D6936200373F77 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7049580023D6936200373F77 /* MapViewController.swift */; };
 		9B48B57C23D682A6001AF6D9 /* AddVoiceNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B48B57B23D682A6001AF6D9 /* AddVoiceNoteViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +38,7 @@
 		704957F623CFBBE200373F77 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
 		704957FA23CFC3D500373F77 /* NotesCellTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesCellTableViewCell.swift; sourceTree = "<group>"; };
 		704957FC23D2408300373F77 /* ViewNotesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewNotesViewController.swift; sourceTree = "<group>"; };
+		7049580023D6936200373F77 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
 		9B48B57B23D682A6001AF6D9 /* AddVoiceNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddVoiceNoteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -84,6 +86,7 @@
 				704957FA23CFC3D500373F77 /* NotesCellTableViewCell.swift */,
 				704957FC23D2408300373F77 /* ViewNotesViewController.swift */,
 				9B48B57B23D682A6001AF6D9 /* AddVoiceNoteViewController.swift */,
+				7049580023D6936200373F77 /* MapViewController.swift */,
 			);
 			path = NotesApp;
 			sourceTree = "<group>";
@@ -171,6 +174,7 @@
 				704957DF23CFA82B00373F77 /* ViewController.swift in Sources */,
 				704957F423CFAB7A00373F77 /* AddNotesViewController.swift in Sources */,
 				704957FB23CFC3D500373F77 /* NotesCellTableViewCell.swift in Sources */,
+				7049580123D6936200373F77 /* MapViewController.swift in Sources */,
 				9B48B57C23D682A6001AF6D9 /* AddVoiceNoteViewController.swift in Sources */,
 				704957FD23D2408300373F77 /* ViewNotesViewController.swift in Sources */,
 				704957DB23CFA82B00373F77 /* AppDelegate.swift in Sources */,
