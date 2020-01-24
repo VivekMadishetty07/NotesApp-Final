@@ -78,7 +78,7 @@ class MapViewController: UIViewController,CLLocationManagerDelegate, MKMapViewDe
            if let dequeuedView = mapView.dequeueReusableAnnotationView(withIdentifier: identifier)
              as? MKMarkerAnnotationView {
 
-            dequeuedView.annotation = annonationCollection as! MKAnnotation;
+            dequeuedView.annotation = annonationCollection as? MKAnnotation;
              view = dequeuedView
            } else {
            
